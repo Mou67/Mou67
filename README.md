@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://imgur.com/a/kxNkAtK" alt="Eyes in the dark" width="600px"/>
+  <img src="https://imgur.com/gallery/gif1-IhrVmgT" alt="Eyes in the dark" width="600px"/>
 </p>
 
 ---
