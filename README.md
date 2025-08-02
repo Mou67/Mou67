@@ -71,7 +71,6 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎮 **FiveM Lua Framework** | Custom framework and core system for FiveM servers | ![Lua](https://img.shields.io/badge/-Lua-7209B7?style=flat&logo=lua&logoColor=white) ![FiveM](https://img.shields.io/badge/-FiveM-9D4EDD?style=flat&logoColor=white) |
 | 🌐 **Personal Portfolio** | Modern, responsive portfolio website | ![HTML5](https://img.shields.io/badge/-HTML5-663399?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-8E44AD?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-C77DFF?style=flat&logo=javascript&logoColor=white) |
 | 🎨 **UI/UX Projects** | User-friendly and visually appealing design solutions | ![Figma](https://img.shields.io/badge/-Figma-7209B7?style=flat&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/-React-9D4EDD?style=flat&logo=react&logoColor=white) |
 
@@ -83,7 +82,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/566339117466517505">
-    <img src="https://lanyard.cnrad.dev/api/566339117466517505?borderRadius=10&theme=dark" />
+    <img src="https://lanyard.cnrad.dev/api/566339117466517505?borderRadius=10&theme=dark&hideTimestamp=true&hideActivity=true" />
   </a>
 </div>
 
