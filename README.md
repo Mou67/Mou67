@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="images/gif-1.gif" alt="Midnight Vibes" width="100%" />
+  <img src="https://i.imgur.com/6aMjJPJ.gif" alt="Midnight Vibes" width="100%" />
 </p>
 
 ---
@@ -108,7 +108,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mou67/Mou67/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -116,7 +116,7 @@
 ## 💜 Final Words
 
 <div align="center">
-  <img src="images/gif-1.gif" alt="Midnight Coding" width="600px"/>
+  <img src="https://i.imgur.com/pCWz683.gif" alt="Midnight Coding" width="600px"/>
   
   <br/><br/>
   
