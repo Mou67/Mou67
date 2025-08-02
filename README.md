@@ -1,73 +1,69 @@
-<!-- GitHub Profile README for Mou67 -->
+<!-- GitHub Profile README - Dark Design with GIFs -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hey%2C+I'm+Mou67!;Creative+Freelancer+%7C+Dark+Coder+%7C+Digital+Artist" alt="Typing SVG" />
+<h1 align="center" style="color: #00FFFF;">
+  🧠 Mou67 | Coder in the Shadows
 </h1>
 
 <p align="center">
-  <img src="gif-1.gif" alt="Neon Glitch Banner" width="100%" />
+  <img src="gif-1.gif" alt="Storm Glitch Intro" width="100%" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧊 About Me
 
 ```diff
 - 💻 Freelancer (but not for everyone)
-+ ⚙️ Passionate about coding, creating and glitch aesthetics
-! 🎯 Always learning, always exploring
-# 🖾 Open to unique, challenging collaborations
++ 💙 Loves the dark side of code
+! 🔮 Obsessed with glitch & motion aesthetics
+# 🧪 Code is my language, silence is my vibe
 ```
 
 ---
 
-### 🛠 Tech Stack
+### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,csharp,unity,unreal,github,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,github,git&perline=7" />
 </p>
 
 ---
 
-### 🔮 My World
+<p align="center">
+  <img src="gif-2.gif" alt="Matrix Grid" width="100%" />
+</p>
 
-* 🌐 Website: [mou67.com](https://mou67.com)
-* 🧪 Vibes: Neon, Dark, Glitch, Cybercore
-* 🚫 Not your average freelancer
+---
+
+### 🌐 My World
+
+* 🕸️ Website: [mou67.com](https://mou67.com)
+* 🎭 Identity: Freelancer, but not for everyone
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mou67&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&custom_title=Mou67's+Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mou67&theme=tokyonight&hide_border=true&border_radius=15"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mou67&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mou67&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mou67&theme=tokyonight&hide_border=true&border_radius=15" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mou67&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 ---
 
-### ⚡️ Glitched Quote
-
-> *"In a world full of code, be the glitch they can't debug."*
-
----
-
-### 🎨 Featured Visual (optional)
-<!-- Optional embed of website preview or banner -->
 <p align="center">
-  <img src="https://mou67.com/gif-1.gif" alt="Website preview" width="700"/>
+  <img src="icegif-1404.gif" alt="Eyes in the dark" width="600px"/>
 </p>
 
 ---
 
-### 🧹 Inspired by my digital soul
+### 🧠 Final Words
 
-> Designed to reflect [mou67.com](https://mou67.com) – dark, sleek, neon, unique.
-> Let’s create something that breaks the system — beautifully.
+> *"Not every glitch is a bug — sometimes it's the signature of a mind that refuses to conform."*
 
 ---
 
-💥 *Stay real. Stay different.*
+<p align="center"><strong>💥 Stay dark. Stay real. Stay different.</strong></p>
