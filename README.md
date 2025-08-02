@@ -1,16 +1,39 @@
-<!-- GitHub Prof## 💜 Current Status
+<!-- GitHub Profile README - Midnight Purple Design -->
 
-> ### 🌙 F## 🛠️ Tech Stack & Skills
+<div align="center">
+  <h1 style="color: #9D4EDD; text-shadow: 0 0 10px #7209B7;">
+    🌙 Mou67 | Developer in the Midnight Hour
+  </h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Austrian+Front-End+Developer+🇦🇹;Star+Citizen+%26+Anime+Enthusiast;Creating+Modern+Web+Experiences;FiveM+Lua+Developer" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="images/gif-1.gif" alt="Midnight Vibes" width="100%" />
+</p>
+
+---
+
+## 🌟 About Me
+
+<div>
+<img src="images/gif-2.gif" alt="Midnight Aesthetic" width="300" align="right" />
+
+- 🇦🇹 **From Austria** - Passionate about front-end development in my free time
+- 💻 **Hobbyist Front-End Developer** - Creating modern, interactive, and user-friendly web experiences
+- 🎮 **Gaming Enthusiast**: Star Citizen, Open-world games, and much more
+- 🎌 **Anime Lover** - Always watching the latest series
+- 🌙 **Vibes**: Midnight coding sessions, purple aesthetics, and creating something unique
+- 🕸️ **Website**: [mou67.com](https://mou67.com)
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
   
-### 💜 Core T## 💜 Discord Status
-
-<div align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=7209B7&borderRadius=15px&animated=true&idleMessage=Coding%20modern%20web%20experiences%20🌙" alt="Discord Status" />
-  </a>
-</div>gies
+### 💜 Core Technologies
 <p>
   <img src="https://img.shields.io/badge/HTML5-7209B7?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-9D4EDD?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,65 +61,6 @@
   <img src="https://img.shields.io/badge/Responsive_Design-6A0DAD?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-</div>ode
-> Currently working on exciting projects including FiveM Lua scripts with my own framework and core system. Always passionate about creating modern, interactive web experiences!
-> 
-> 🚀 **Available for interesting front-end projects and collaborations**
-> 
-> **Let's build something amazing together! 💜**ME - Midnight Purple Design -->
-
-<div align="center">
-  <h1 style="color: #9D4EDD; text-shadow: 0 0 10px #7209B7;">
-    🌙 Mou67 | Developer in the Midnight Hour
-  </h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Austrian+Front-End+Developer+%F0%9F%87%A6%F0%9F%87%B9;Star+Citizen+%26+Anime+Enthusiast;Creating+Modern+Web+Experiences;FiveM+Lua+Developer" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="images/gif-1.gif" width="500" />
-</p>
-
----
-
-
----
-
-## 🌟 About Me
-
-<div>
-<img src="images/gif-2.gif" alt="Midnight Aesthetic" width="300" align="right" />
-
-- �🇹 **From Austria** - Passionate about front-end development in my free time
-- 💻 **Hobbyist Front-End Developer** - Creating modern, interactive, and user-friendly web experiences
-- 🎮 **Gaming Enthusiast**: Star Citizen, Open-world games, and much more
-- � **Anime Lover** - Always watching the latest series
-- 🚀 **Current Focus**: FiveM Lua Scripts with custom framework and core system
-- 🌙 **Vibes**: Midnight coding sessions, purple aesthetics, and creating something unique
-- 🕸️ **Website**: [mou67.com](https://mou67.com)
-</div>
-
----
-
-## �️ Tech Stack & Skills
-
-<div align="center">
-  
-### 💜 Languages I'm Skilled With
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-7209B7?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-9D4EDD?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-### 🌙 Languages I'm Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-8E44AD?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-663399?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-7209B7?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-9D4EDD?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
 </div>
 
 ---
@@ -107,6 +71,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🎮 **FiveM Lua Framework** | Custom framework and core system for FiveM servers | ![Lua](https://img.shields.io/badge/-Lua-7209B7?style=flat&logo=lua&logoColor=white) ![FiveM](https://img.shields.io/badge/-FiveM-9D4EDD?style=flat&logoColor=white) |
 | 🌐 **Personal Portfolio** | Modern, responsive portfolio website | ![HTML5](https://img.shields.io/badge/-HTML5-663399?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-8E44AD?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-C77DFF?style=flat&logo=javascript&logoColor=white) |
 | 🎨 **UI/UX Projects** | User-friendly and visually appealing design solutions | ![Figma](https://img.shields.io/badge/-Figma-7209B7?style=flat&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/-React-9D4EDD?style=flat&logo=react&logoColor=white) |
 
@@ -118,7 +83,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/566339117466517505">
-    <img src="https://lanyard.cnrad.dev/api/566339117466517505" />
+    <img src="https://lanyard.cnrad.dev/api/566339117466517505?borderRadius=10&theme=dark" />
   </a>
 </div>
 
