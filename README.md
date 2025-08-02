@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="gif-1.gif" alt="Storm Glitch Intro" width="100%" />
+  <img src="Mou67/gif-1.gif" alt="Storm Glitch Intro" width="100%" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="gif-2.gif" alt="Matrix Grid" width="100%" />
+  <img src="Mou67/gif-2.gif" alt="Matrix Grid" width="100%" />
 </p>
 
 ---
