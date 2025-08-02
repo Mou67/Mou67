@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="Mou67/gif-2.gif" alt="Matrix Grid" width="100%" />
+  <img src="assets/gif-1.gif" alt="Matrix Grid" width="100%" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="icegif-1404.gif" alt="Eyes in the dark" width="600px"/>
+  <img src="assets/gif-2.gif" alt="Eyes in the dark" width="600px"/>
 </p>
 
 ---
