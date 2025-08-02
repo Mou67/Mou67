@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="assets/gif-1.gif" alt="Matrix Grid" width="100%" />
+  <img src="images/gif-1.gif" alt="Matrix Grid" width="100%" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://imgur.com/gallery/gif1-IhrVmgT" alt="Eyes in the dark" width="600px"/>
+  <img src="images/gif-2.gif" alt="Eyes in the dark" width="600px"/>
 </p>
 
 ---
