@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Austrian+Front-End+Developer+🇦🇹;Star+Citizen+%26+Anime+Enthusiast;Creating+Modern+Web+Experiences;FiveM+Lua+Developer" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/6aMjJPJ.gif" alt="Midnight Vibes" width="100%" />
-</p>
-
 ---
 
 ## 🌟 About Me
@@ -20,7 +16,7 @@
 <img src="images/gif-2.gif" alt="Midnight Aesthetic" width="300" align="right" />
 
 - 🇦🇹 **From Austria** - Passionate about front-end development in my free time
-- 💻 **Hobbyist Front-End Developer** - Creating modern, interactive, and user-friendly web experiences
+- 💻 **Hobbyist Front-End Developer** - Creating modern, interactive, and user-friendly web experiences and 3D Modeling in Blender
 - 🎮 **Gaming Enthusiast**: Star Citizen, Open-world games, and much more
 - 🎌 **Anime Lover** - Always watching the latest series
 - 🌙 **Vibes**: Midnight coding sessions, purple aesthetics, and creating something unique
@@ -41,38 +37,12 @@
   <img src="https://img.shields.io/badge/Python-8E44AD?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-7209B7?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-9D4EDD?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### 🎯 Specializing In
-<p>
-  <img src="https://img.shields.io/badge/Lua-663399?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-C77DFF?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-7209B7?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
 ### 🛠️ Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-8E44AD?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Responsive_Design-6A0DAD?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 **Personal Portfolio** | Modern, responsive portfolio website | ![HTML5](https://img.shields.io/badge/-HTML5-663399?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-8E44AD?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-C77DFF?style=flat&logo=javascript&logoColor=white) |
-| 🎨 **UI/UX Projects** | User-friendly and visually appealing design solutions | ![Figma](https://img.shields.io/badge/-Figma-7209B7?style=flat&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/-React-9D4EDD?style=flat&logo=react&logoColor=white) |
 
 </div>
 
@@ -100,14 +70,6 @@
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mou67&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15&bg_color=0d1117&title_color=9D4EDD&text_color=C9A9DD" alt="Top Languages" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
