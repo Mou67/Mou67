@@ -1,99 +1,98 @@
-<!-- GitHub Profile README - Midnight Purple Design -->
+<!-- GitHub profile README · black & white, matches mou67.com -->
+
+<a href="https://mou67.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
+    <img alt="MOU67 — Hobby developer. Small tools that do one job, properly." src="assets/banner-dark.png" width="100%" />
+  </picture>
+</a>
 
 <div align="center">
-  <h1 style="color: #9D4EDD; text-shadow: 0 0 10px #7209B7;">
-    🌙 Mou67 | Developer in the Midnight Hour
-  </h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Austrian+Front-End+Developer+🇦🇹;Star+Citizen+%26+Anime+Enthusiast;Creating+Modern+Web+Experiences;FiveM+Lua+Developer" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=F2F2F2&center=true&vCenter=true&width=640&lines=Hobby+developer+from+Austria;Python+tools+that+do+one+job%2C+properly;Front-end+%C2%B7+Motion+%C2%B7+3D+in+Blender;Star+Citizen+%26+anime+enthusiast" />
+    <img alt="Hobby developer from Austria" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=0A0A0A&center=true&vCenter=true&width=640&lines=Hobby+developer+from+Austria;Python+tools+that+do+one+job%2C+properly;Front-end+%C2%B7+Motion+%C2%B7+3D+in+Blender;Star+Citizen+%26+anime+enthusiast" />
+  </picture>
 </div>
 
----
+<br />
 
-## 🌟 About Me
+### `01` — About
 
-<div>
-<img src="images/gif-2.gif" alt="Midnight Aesthetic" width="300" align="right" />
+I'm **Mou67**, a hobby programmer from Austria. I build things for myself: small Python tools that take over some task I got tired of doing by hand, and websites with motion and a clean, reduced design. When one of them actually works, it goes public on GitHub.
 
-- 🇦🇹 **From Austria** - Passionate about front-end development in my free time
-- 💻 **Hobbyist Front-End Developer** - Creating modern, interactive, and user-friendly web experiences and 3D Modeling in Blender
-- 🎮 **Gaming Enthusiast**: Star Citizen, Open-world games, and much more
-- 🎌 **Anime Lover** - Always watching the latest series
-- 🌙 **Vibes**: Midnight coding sessions, purple aesthetics, and creating something unique
-- 🕸️ **Website**: [mou67.com](https://mou67.com)
-</div>
+<table>
+  <tr><td><code>based in</code></td><td>Austria</td></tr>
+  <tr><td><code>building</code></td><td>Python tools · websites · 3D models in Blender</td></tr>
+  <tr><td><code>playing</code></td><td>Star Citizen, open-world games</td></tr>
+  <tr><td><code>watching</code></td><td>anime, always the latest season</td></tr>
+  <tr><td><code>website</code></td><td><a href="https://mou67.com">mou67.com</a></td></tr>
+</table>
 
----
+<br />
 
-## 🛠️ Tech Stack & Skills
+### `02` — Selected work
 
-<div align="center">
-  
-### 💜 Core Technologies
+| Project | What it does | Stack |
+| ------- | ------------ | ----- |
+| **[Patreon Audio Downloader](https://github.com/Mou67/Patreon-Downloader)** | Downloads Patreon content you have access to and converts it to MP3. Session-ID login, live progress bar, ships as a standalone `.exe`. | `Python` `tkinter` `yt-dlp` `FFmpeg` |
+| **[SpecterMonitor](https://github.com/Mou67/SpecterMonitor)** | Keeps an eye on things that shouldn't be watched by hand. Runs in the background and says something when the state changes. | `Python` `Automation` |
+| **[mou67.com](https://mou67.com)** | My black & white portfolio: liquid chrome hero, scroll-driven 3D project showcase, smooth scrolling. | `React` `TypeScript` `GSAP` `Lenis` |
+
+<br />
+
+### `03` — Stack
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-7209B7?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-9D4EDD?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-8E44AD?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-0A0A0A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-8E44AD?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_Design-6A0DAD?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<br />
 
+### `04` — How I work
+
+**Scratch my own itch.** Every tool starts as something I personally needed. One clear job per project, nothing added to look impressive.
+
+**Make it survive a stranger.** Real error messages, a progress bar you can trust, and a README that answers the questions people actually hit.
+
+**Put it on GitHub.** Packaged, MIT-licensed, pushed public. If it helped me, it might help someone else.
+
+<br />
+
+### `05` — Numbers
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mou67&show_icons=true&hide_border=true&border_radius=0&bg_color=0a0a0a&title_color=f2f2f2&text_color=9a9a9a&icon_color=f2f2f2&ring_color=f2f2f2" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mou67&show_icons=true&hide_border=true&border_radius=0&bg_color=f2f2f2&title_color=0a0a0a&text_color=555555&icon_color=0a0a0a&ring_color=0a0a0a" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mou67&hide_border=true&border_radius=0&background=0A0A0A&stroke=333333&ring=F2F2F2&fire=F2F2F2&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=F2F2F2&sideLabels=9A9A9A&dates=6A6A6A" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Mou67&hide_border=true&border_radius=0&background=F2F2F2&stroke=CCCCCC&ring=0A0A0A&fire=0A0A0A&currStreakNum=0A0A0A&sideNums=0A0A0A&currStreakLabel=0A0A0A&sideLabels=555555&dates=888888" />
+  </picture>
 </div>
+
+<br />
 
 ---
 
-## 💜 Discord Status
-
 <div align="center">
-  <a href="https://discord.com/users/566339117466517505">
-    <img src="https://lanyard.cnrad.dev/api/566339117466517505?borderRadius=10&theme=dark&hideTimestamp=true&hideActivity=true" />
-  </a>
-</div>
 
----
+[![mou67.com](https://img.shields.io/badge/mou67.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mou67.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/github.com%2FMou67-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mou67)
 
-## 📊 GitHub Statistics
+<sub>Code under MIT · built in Austria</sub>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mou67&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&bg_color=0d1117&title_color=9D4EDD&icon_color=7209B7&text_color=C9A9DD" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mou67&theme=midnight-purple&hide_border=true&border_radius=15&background=0d1117&stroke=9D4EDD&ring=7209B7&fire=C77DFF&currStreakLabel=9D4EDD" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mou67&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15&bg_color=0d1117&title_color=9D4EDD&text_color=C9A9DD" alt="Top Languages" />
-</div>
-
----
-
-## 💜 Final Words
-
-<div align="center">
-  <img src="https://i.imgur.com/pCWz683.gif" alt="Midnight Coding" width="600px"/>
-  
-  <br/><br/>
-  
-  > *"Creating modern, interactive, and user-friendly web experiences - one line of code at a time."*
-  
-  <br/>
-  
-  **🌙 Stay creative. Stay passionate. Stay Austrian. 🇦🇹**
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Made%20with-💜%20%26%20☕-9D4EDD?style=for-the-badge" />
-  
-  ### 🌐 Let's Connect!
-  
-  [![Website](https://img.shields.io/badge/🕸️-mou67.com-7209B7?style=for-the-badge)](https://mou67.com)
-  [![Email](https://img.shields.io/badge/📧-Contact-9D4EDD?style=for-the-badge)](https://mou67.com)
-  
 </div>
