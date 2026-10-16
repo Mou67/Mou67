@@ -10,8 +10,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=F2F2F2&center=true&vCenter=true&width=640&lines=Hobby+developer+from+Austria;Python+tools+that+do+one+job%2C+properly;Front-end+%C2%B7+Motion+%C2%B7+3D+in+Blender;Star+Citizen+%26+anime+enthusiast" />
-    <img alt="Hobby developer from Austria" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=0A0A0A&center=true&vCenter=true&width=640&lines=Hobby+developer+from+Austria;Python+tools+that+do+one+job%2C+properly;Front-end+%C2%B7+Motion+%C2%B7+3D+in+Blender;Star+Citizen+%26+anime+enthusiast" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=F2F2F2&center=true&vCenter=true&width=640&lines=Hobby+developer+from+Austria;Python+tools+that+do+one+job%2C+properly;Front-end+%C2%B7+Motion+%C2%B7+3D+in+Blender" />
+    <img alt="Hobby developer from Austria" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=0A0A0A&center=true&vCenter=true&width=640&lines=Hobby+developer+from+Austria;Python+tools+that+do+one+job%2C+properly;Front-end+%C2%B7+Motion+%C2%B7+3D+in+Blender" />
   </picture>
 </div>
 
@@ -24,8 +24,6 @@ I'm **Mou67**, a hobby programmer from Austria. I build things for myself: small
 <table>
   <tr><td><code>based in</code></td><td>Austria</td></tr>
   <tr><td><code>building</code></td><td>Python tools · websites · 3D models in Blender</td></tr>
-  <tr><td><code>playing</code></td><td>Star Citizen, open-world games</td></tr>
-  <tr><td><code>watching</code></td><td>anime, always the latest season</td></tr>
   <tr><td><code>website</code></td><td><a href="https://mou67.com">mou67.com</a></td></tr>
 </table>
 
