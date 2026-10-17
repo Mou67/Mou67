@@ -2,9 +2,9 @@
 
 <a href="https://mou67.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
-    <img alt="MOU67 — Hobby developer. Small tools that do one job, properly." src="assets/banner-dark.png" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif" />
+    <img alt="MOU67 — Hobby developer. Small tools that do one job, properly." src="assets/banner-dark.gif" width="100%" />
   </picture>
 </a>
 
