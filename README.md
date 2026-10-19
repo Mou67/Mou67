@@ -33,6 +33,7 @@ I'm **Mou67**, a hobby programmer from Austria. I build things for myself: small
 
 | Project | What it does | Stack |
 | ------- | ------------ | ----- |
+| **DriveUP** | Driver Manager and in future Windows Slopp killer and cleaner | to be announced |
 | **[Patreon Audio Downloader](https://github.com/Mou67/Patreon-Downloader)** | Downloads Patreon content you have access to and converts it to MP3. Session-ID login, live progress bar, ships as a standalone `.exe`. | `Python` `tkinter` `yt-dlp` `FFmpeg` |
 | **[SpecterMonitor](https://github.com/Mou67/SpecterMonitor)** | Keeps an eye on things that shouldn't be watched by hand. Runs in the background and says something when the state changes. | `Python` `Automation` |
 | **[mou67.com](https://mou67.com)** | My black & white portfolio: liquid chrome hero, scroll-driven 3D project showcase, smooth scrolling. | `React` `TypeScript` `GSAP` `Lenis` |
